@@ -1,0 +1,1 @@
+mvn -B verify -f spring-petclinic/pom.xml org.sonarsource.scanner.maven:sonar-maven-plugin:sonar -Dsonar.projectKey=Mpil2022_tp-analyse-statique-L7AJ-IMAD -Dsonar.organization=mpil2022 -Dsonar.host.url=https://sonarcloud.io
